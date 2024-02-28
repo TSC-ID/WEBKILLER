@@ -6,7 +6,7 @@
 
 ## Install
 ```bash
-git clone https://github.com/TSC-ID/webkiller.git
+git clone https://github.com/TSC-ID/WEBKILLER
 cd webkiller
 pip3 install -r requirements.txt
 python3 TSC-ID.py 
